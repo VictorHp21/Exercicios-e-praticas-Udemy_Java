@@ -1,0 +1,26 @@
+
+Caneta Azul,2,50
+Caderno Universitário,15,20
+Lápis Preto,1,100
+Borracha Branca,0,75,80
+Marca-texto Amarelo,3,60
+Estojo Escolar,12,30
+Régua 30cm,2,90
+Apontador Duplo,1,50
+Livro de Matemática,45,10
+Livro de História,40,12
+Calculadora Simples,25,15
+Mochila Escolar,70,8
+Tesoura Escolar,5,40
+Cola Branca 250ml,6,25
+Papel Sulfite A4,22,18
+Pen Drive 16GB,35,14
+Mouse USB,29,17
+Teclado USB,55,11
+Cadeira Gamer,599,2
+Monitor 21",750,3
+Webcam Full HD,120,5
+Caixa de Som Bluetooth,110,7
+Fone de Ouvido,85,9
+Adaptador HDMI,19,13
+Notebook i5,2800,1

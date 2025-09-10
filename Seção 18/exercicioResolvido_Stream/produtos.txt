@@ -1,0 +1,10 @@
+Computer, 890.50
+Iphone X, 910.00
+Tablet, 550.00
+Nike Air, 1020.00
+Smart TV, 2450.00
+Headset Gamer, 320.00
+Mouse Sem Fio, 150.00
+Cadeira Gamer, 1250.00
+Monitor 27", 980.00
+Teclado Mecânico, 410.00

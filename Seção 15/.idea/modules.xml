@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlocoTry_with_resources/BlocoTry_with_resources.iml" filepath="$PROJECT_DIR$/BlocoTry_with_resources/BlocoTry_with_resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploTrabalhandoComArquivos1/ExemploTrabalhandoComArquivos1.iml" filepath="$PROJECT_DIR$/ExemploTrabalhandoComArquivos1/ExemploTrabalhandoComArquivos1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioProposto/ExercicioProposto.iml" filepath="$PROJECT_DIR$/ExercicioProposto/ExercicioProposto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileReaderAndBufferedReader/FileReaderAndBufferedReader.iml" filepath="$PROJECT_DIR$/FileReaderAndBufferedReader/FileReaderAndBufferedReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileWriterAndBuferredWriter/FileWriterAndBuferredWriter.iml" filepath="$PROJECT_DIR$/FileWriterAndBuferredWriter/FileWriterAndBuferredWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InformacoesArquivo/InformacoesArquivo.iml" filepath="$PROJECT_DIR$/InformacoesArquivo/InformacoesArquivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ManipulandoPastasComFile/ManipulandoPastasComFile.iml" filepath="$PROJECT_DIR$/ManipulandoPastasComFile/ManipulandoPastasComFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Seção 15.iml" filepath="$PROJECT_DIR$/.idea/Seção 15.iml" />
+    </modules>
+  </component>
+</project>

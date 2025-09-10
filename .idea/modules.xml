@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ex_Teste_saida_de_dados/Ex_Teste_saida_de_dados.iml" filepath="$PROJECT_DIR$/Ex_Teste_saida_de_dados/Ex_Teste_saida_de_dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Praticas com intellij.iml" filepath="$PROJECT_DIR$/.idea/Praticas com intellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primeiro_Projeto/Primeiro_Projeto.iml" filepath="$PROJECT_DIR$/Primeiro_Projeto/Primeiro_Projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prt_calculo_media/Prt_calculo_media.iml" filepath="$PROJECT_DIR$/Prt_calculo_media/Prt_calculo_media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exemplo_saida_de_dados2/exemplo_saida_de_dados2.iml" filepath="$PROJECT_DIR$/exemplo_saida_de_dados2/exemplo_saida_de_dados2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios_insereDados1/exercicios_insereDados1.iml" filepath="$PROJECT_DIR$/exercicios_insereDados1/exercicios_insereDados1.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exemplo_try_catch/Exemplo_try_catch.iml" filepath="$PROJECT_DIR$/Exemplo_try_catch/Exemplo_try_catch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExcecoesPersonalizadas/ExercicioFixacaoExcecoes/ExercicioFixacaoExcecoes.iml" filepath="$PROJECT_DIR$/ExcecoesPersonalizadas/ExercicioFixacaoExcecoes/ExercicioFixacaoExcecoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Seção 14.iml" filepath="$PROJECT_DIR$/.idea/Seção 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExcecoesPersonalizadas/solucao1MuitoRuim/solucao1MuitoRuim.iml" filepath="$PROJECT_DIR$/ExcecoesPersonalizadas/solucao1MuitoRuim/solucao1MuitoRuim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExcecoesPersonalizadas/solucao2ruim/solucao2ruim.iml" filepath="$PROJECT_DIR$/ExcecoesPersonalizadas/solucao2ruim/solucao2ruim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExcecoesPersonalizadas/solucao3Boa/solucao3Boa.iml" filepath="$PROJECT_DIR$/ExcecoesPersonalizadas/solucao3Boa/solucao3Boa.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+Fruta: {nome='Banana'}
+Fruta: {nome='Laranja'}
+Fruta: {nome='Maçã'}
+Fruta: {nome='Morango'}
+Eletronicos: {nome='Monitor'}
+Eletronicos: {nome='Mouse'}
+Eletronicos: {nome='Mouse Pad'}
+Eletronicos: {nome='Teclado'}
+Livro: {nome='Livro 1'}
+Livro: {nome='Livro 2'}
+Livro: {nome='Livro 3'}
+Livro: {nome='Livro 4'}
