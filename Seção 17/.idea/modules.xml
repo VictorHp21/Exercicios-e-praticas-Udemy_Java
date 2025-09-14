@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CuringasDelimitados/CuringasDelimitados.iml" filepath="$PROJECT_DIR$/CuringasDelimitados/CuringasDelimitados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Curingas_PrincipioGETePUT/Curingas_PrincipioGETePUT.iml" filepath="$PROJECT_DIR$/Curingas_PrincipioGETePUT/Curingas_PrincipioGETePUT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioProposto/ExercicioProposto.iml" filepath="$PROJECT_DIR$/ExercicioProposto/ExercicioProposto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio_resolvido_Set/Exercicio_resolvido_Set.iml" filepath="$PROJECT_DIR$/Exercicio_resolvido_Set/Exercicio_resolvido_Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Genericos_Delimitados/Genericos_Delimitados.iml" filepath="$PROJECT_DIR$/Genericos_Delimitados/Genericos_Delimitados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics_problema1/Generics_problema1.iml" filepath="$PROJECT_DIR$/Generics_problema1/Generics_problema1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashCode_e_Equals/HashCode_e_Equals.iml" filepath="$PROJECT_DIR$/HashCode_e_Equals/HashCode_e_Equals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashCode_e_EqualsPersonalizado/HashCode_e_EqualsPersonalizado.iml" filepath="$PROJECT_DIR$/HashCode_e_EqualsPersonalizado/HashCode_e_EqualsPersonalizado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map_demo2/Map_demo2.iml" filepath="$PROJECT_DIR$/Map_demo2/Map_demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problema2_PrincipioGETePUT/Problema2_PrincipioGETePUT.iml" filepath="$PROJECT_DIR$/Problema2_PrincipioGETePUT/Problema2_PrincipioGETePUT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set_Demo1/Set_Demo1.iml" filepath="$PROJECT_DIR$/Set_Demo1/Set_Demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set_Demo2/Set_Demo2.iml" filepath="$PROJECT_DIR$/Set_Demo2/Set_Demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set_demo3_igualdade/Set_demo3_igualdade.iml" filepath="$PROJECT_DIR$/Set_demo3_igualdade/Set_demo3_igualdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Seção 17.iml" filepath="$PROJECT_DIR$/.idea/Seção 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiposCuringa/TiposCuringa.iml" filepath="$PROJECT_DIR$/TiposCuringa/TiposCuringa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeSet/TreeSet.iml" filepath="$PROJECT_DIR$/TreeSet/TreeSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio_proposto_Map/exercicio_proposto_Map.iml" filepath="$PROJECT_DIR$/exercicio_proposto_Map/exercicio_proposto_Map.iml" />
+    </modules>
+  </component>
+</project>

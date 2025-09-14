@@ -17,6 +17,8 @@ public class Main {
         myCircles.add(new Circle(2.0));
         myCircles.add(new Circle(3.0));
 
+        
+
 
         System.out.println("Total area:" + totalArea(myCircles));
     }
